@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ykm:home|Door43 (ykm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ykm|d43-ykm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ykm/archive/master.zip|d43-ykm.zip]]
+
+**Recent Changes**
+{{changes>ns = ykm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ykm|Ethnologue data]]
+
